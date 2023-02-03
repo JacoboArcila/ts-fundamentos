@@ -6,5 +6,3 @@ export type Product = {
   size?: Sizes
 };
 
-
-
